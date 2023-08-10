@@ -1,2 +1,0 @@
-Tem que ter uma função lambda
-Tem que gerar o diagrama de classes

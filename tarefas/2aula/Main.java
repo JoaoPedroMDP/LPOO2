@@ -1,4 +1,4 @@
-public class Idade {
+public class Main {
     public static void main(String[] args) {
         Pessoa p1 = new Pessoa("Albert Einstein", 14, 3, 1879);
         Pessoa p2 = new Pessoa("Isaac Newton", 4, 1, 1642);

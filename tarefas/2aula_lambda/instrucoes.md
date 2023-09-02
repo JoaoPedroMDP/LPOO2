@@ -11,6 +11,3 @@ Criar a classe Pessoa com as seguintes caracteristicas:
 
 Criar dois objetos da classe Pessoa, um representando Albert Einsttin (nascido em 14/3/1879) e o outro representando Isaac Newton (nascido em 4/1/1643) 
 Fazer uma classe principal que instancie os objetos, inicialize e mostre quais seriam as idades de Einstein e Newton caso estivessem vivos.
-
-- [ ] Tem que ter uma função lambda
-- [X] Tem que gerar o diagrama de classes
